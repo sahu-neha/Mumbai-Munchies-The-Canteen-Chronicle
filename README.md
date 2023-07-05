@@ -68,11 +68,3 @@ The Mumbai Munchies application is designed to automate the snack inventory mana
 ### Contribution
 
 Contributions to the Mumbai Munchies project are welcome! If you find any issues or have ideas to enhance the functionality, feel free to open an issue or submit a pull request on the project repository.
-
-### License
-
-This project is licensed under the MIT License. You can find more information in the [LICENSE](LICENSE) file.
-
----
-
-With Mumbai Munchies: The Canteen Chronicle, canteen staff at Mumbai University can streamline their snack inventory management and sales tracking. This Python
