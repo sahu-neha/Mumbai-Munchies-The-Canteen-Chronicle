@@ -83,6 +83,7 @@ def list_all_snacks():
 
 def show_menu():
     print()
+    print("==================================================")
     print("Welcome to Mumbai Munchies: The Canteen Chronicle!")
     print("1. Add a snack")
     print("2. Remove a snack")
@@ -90,6 +91,7 @@ def show_menu():
     print("4. Sell a snack")
     print("5. List all snacks")
     print("6. Exit")
+    print("==================================================")
     print()
 
 
